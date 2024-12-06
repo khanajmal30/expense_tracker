@@ -1,0 +1,20 @@
+{
+    "name": "expense-tracker",
+    "version": "1.0.0",
+    "description": "A single-page application for managing shared expenses among friends.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^26.6.3",
+      "babel-jest": "^26.6.3",
+      "@babel/core": "^7.12.3",
+      "@babel/preset-env": "^7.12.1",
+      "@babel/preset-react": "^7.12.1",
+      "@testing-library/jest-dom": "^5.11.6"
+    }
+  }
+  
